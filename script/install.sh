@@ -184,7 +184,7 @@ fi
 mkdir -p /var/www/html/
 rm -rf /var/www/html/mbilling
 cd /var/www/html
-git clone https://github.com/magnussolution/magnusbilling6.git mbilling
+git clone https://github.com/maiconfontana/magnusbilling6.git mbilling
 
 
 echo
